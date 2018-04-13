@@ -74,3 +74,7 @@ After that, fire up Photoshop and you should see `App Name` in the Window > Exte
 
 * [Photoshop Scripting Docs](http://photoshop-docs.readthedocs.io/en/latest/)
 * [Adobe CEP on Github](https://github.com/Adobe-CEP/CEP-Resources)
+
+## Credits
+
+* App icon is from [html5 boilerplate](https://html5boilerplate.com/)
